@@ -6,8 +6,8 @@ moonbird AI creates tools at the intersection of AI and analytics, focusing on s
 
 ### Our Projects
 
-- [amplitude-mcp-server](https://github.com/ciaraadkins/amplitude-mcp-server): Connect Claude AI to Amplitude through the Model Context Protocol
-- [mixpanel-mcp-server](https://github.com/ciaraadkins/mixpanel-mcp-server): Integrate Claude AI with Mixpanel analytics
+- [amplitude-mcp-server](https://github.com/moonbirdai/amplitude-mcp-server): Connect Claude AI to Amplitude through the Model Context Protocol
+- [mixpanel-mcp-server](https://github.com/moonbirdai/mixpanel-mcp-server): Integrate Claude AI with Mixpanel analytics
 
 ### About Us
 
