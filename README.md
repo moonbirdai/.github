@@ -1,6 +1,3 @@
-# .github
-Projects by the innovators at moonbird AI, focused on human-centered AI and analytics tools.
-
 # moonbird AI
 
 ## Human-centered AI & analytics tools
